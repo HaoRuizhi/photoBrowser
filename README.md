@@ -1,7 +1,7 @@
 # photoBrowser
 简单实用的轻量级OC图片浏览器，后续会推出swift版本
 
-![image](https://github.com/HaoRuizhi/photoBrowser/raw/master/Gif/test.gif)
+![image](https://github.com/HaoRuizhi/photoBrowser/blob/master/Git/test.gif)
 
 ### 使用
 该图片浏览器的使用十分简单。
