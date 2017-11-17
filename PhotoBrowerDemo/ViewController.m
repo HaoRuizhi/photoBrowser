@@ -97,7 +97,7 @@ static NSString *kPBCollectionViewCellId = @"PBCollectionViewCellId";
 
     // 3.设置转场的代理
     pbVC.transitioningDelegate = self.modalAnimator;
-//
+
     // 4.设置动画的代理
     self.modalAnimator.presentedDelegate = self;
     self.modalAnimator.indexPath = indexPath;
